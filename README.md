@@ -43,8 +43,7 @@ Next, we tried looping through every combination with at least 5 features and 3 
 finding the best accuracy.
 <br>
 # Final Accuracy
-We have found the highest accuracy of .8175 <br?
-It predicts the genres of edm, rap, and rock. <br>
+We have found the highest accuracy of .8175 for predicting the genres of edm, rap, and rock. <br>
 The features the KNN model is based on are 'danceability', 'energy', 'loudness', 'mode',
 'speechiness', 'valence', 'tempo', and 'duration_ms'. 
 
